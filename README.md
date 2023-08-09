@@ -1,5 +1,4 @@
-# ExchangeRate_Api![Ekran Görüntüsü (121)](https://github.com/yunusemreaydemir/ExchangeRate_Api/assets/110790096/0a0be84f-b84e-4e92-8000-989dd65c8baf)
-![1](https://github.com/yunusemreaydemir/ExchangeRate_Api/assets/110790096/bd755908-a37d-4c1f-be1f-a7b7abb05566)
+[](url)![1](https://github.com/yunusemreaydemir/ExchangeRate_Api/assets/110790096/bd755908-a37d-4c1f-be1f-a7b7abb05566)
 ![2](https://github.com/yunusemreaydemir/ExchangeRate_Api/assets/110790096/e318ee1f-36a7-4152-9d94-1440195507a8)
 ![3](https://github.com/yunusemreaydemir/ExchangeRate_Api/assets/110790096/22f13069-0d72-4bbf-82da-b4046267f998)
 ![4](https://github.com/yunusemreaydemir/ExchangeRate_Api/assets/110790096/aff48e65-bea8-4fa4-aaf8-c2c7318e29c0)
