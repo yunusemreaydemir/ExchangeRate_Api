@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Dolar_Euro_Kur_Api.props" />
+</Project>
